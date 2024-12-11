@@ -19,9 +19,10 @@ Soy un [Tu profesión] apasionado por [tu pasión]. Actualmente estoy aprendiend
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kair069&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kair069&theme=radical)
 
 ## 🎯 Proyectos Destacados
 
