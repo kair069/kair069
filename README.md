@@ -17,6 +17,11 @@ Soy un [Tu profesión] apasionado por [tu pasión]. Actualmente estoy aprendiend
 - **Herramientas**: Docker, Kubernetes, VS Code.
 - **Bases de Datos**: MySQL, MongoDB, PostgreSQL.
 
+## 🧑‍💻 Lenguajes y Tecnologías más utilizados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kair069&layout=compact&theme=radical)
+
+
 ## 📈 Estadísticas de GitHub
 
 
