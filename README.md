@@ -8,6 +8,15 @@ Soy un **matemático puro**, **estadístico**, **ingeniero de software** especia
   <img src="https://i.pinimg.com/originals/d9/1d/d8/d91dd8addb9257082b529d553afbad6e.gif" alt="Desarrollador 3" width="350" height="250">
 </p>
 
+## 🎯 Proyectos Destacados
+
+
+- [Página Web Landing Page Responsive de Viajes con Login y Conexión a MySQL](https://github.com/kair069/pagina_web_viajes): Una landing page responsive para un sitio de viajes, con autenticación de usuarios y conexión a una base de datos MySQL.
+- [Página Web en C# ASP.NET Core](https://github.com/kair069/API-WEB-C-CRUD-USUARIOS-MYSQL-): Un proyecto de API en C# utilizando ASP.NET Core para manejar CRUD de usuarios con una base de datos MySQL.
+- [Página Web de Inventario Tienda Lubricentro](https://github.com/kair069/Lubricentro_ALEX): Sistema de inventario para una tienda de aceites y repuestos para vehículos.
+- [Página Web Blockchain que Conecta con MetaMask](https://github.com/kair069/Vite): Proyecto de página web que utiliza Blockchain y se conecta con MetaMask.
+- [Red Neuronal en R](https://github.com/kair069/dashboardredneuronal): Proyecto de un dashboard que implementa una red neuronal utilizando el lenguaje de programación R.
+- [Proyecto de Microservicios en Java](https://github.com/kair069/FRONTYBACK): Sistema basado en microservicios utilizando Java, con interacción entre frontend y backend.
 
 
 ## 🚀 Acerca de mí
@@ -42,17 +51,6 @@ Soy un **matemático puro**, **estadístico**, **ingeniero de software** especia
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kair069&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kair069&theme=radical)
-
-## 🎯 Proyectos Destacados
-
-
-- [Página Web Landing Page Responsive de Viajes con Login y Conexión a MySQL](https://github.com/kair069/pagina_web_viajes): Una landing page responsive para un sitio de viajes, con autenticación de usuarios y conexión a una base de datos MySQL.
-- [Página Web en C# ASP.NET Core](https://github.com/kair069/API-WEB-C-CRUD-USUARIOS-MYSQL-): Un proyecto de API en C# utilizando ASP.NET Core para manejar CRUD de usuarios con una base de datos MySQL.
-- [Página Web de Inventario Tienda Lubricentro](https://github.com/kair069/Lubricentro_ALEX): Sistema de inventario para una tienda de aceites y repuestos para vehículos.
-- [Página Web Blockchain que Conecta con MetaMask](https://github.com/kair069/Vite): Proyecto de página web que utiliza Blockchain y se conecta con MetaMask.
-- [Red Neuronal en R](https://github.com/kair069/dashboardredneuronal): Proyecto de un dashboard que implementa una red neuronal utilizando el lenguaje de programación R.
-- [Proyecto de Microservicios en Java](https://github.com/kair069/FRONTYBACK): Sistema basado en microservicios utilizando Java, con interacción entre frontend y backend.
-
 
 
 ## 🌍 Contribuyendo a la Comunidad
