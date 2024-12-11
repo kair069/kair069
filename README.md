@@ -38,8 +38,15 @@ Soy un **desarrollador de software** apasionado por la tecnología y la resoluci
 
 ## 🎯 Proyectos Destacados
 
-- [Proyecto 1](https://github.com/kair069/proyecto-1): Descripción de lo que hace.
-- [Proyecto 2](https://github.com/kair069/proyecto-2): Otra breve descripción.
+
+- [Página Web Landing Page Responsive de Viajes con Login y Conexión a MySQL](https://github.com/kair069/pagina_web_viajes): Una landing page responsive para un sitio de viajes, con autenticación de usuarios y conexión a una base de datos MySQL.
+- [Página Web en C# ASP.NET Core](https://github.com/kair069/API-WEB-C-CRUD-USUARIOS-MYSQL-): Un proyecto de API en C# utilizando ASP.NET Core para manejar CRUD de usuarios con una base de datos MySQL.
+- [Página Web de Inventario Tienda Lubricentro](https://github.com/kair069/Lubricentro_ALEX): Sistema de inventario para una tienda de aceites y repuestos para vehículos.
+- [Página Web Blockchain que Conecta con MetaMask](https://github.com/kair069/Vite): Proyecto de página web que utiliza Blockchain y se conecta con MetaMask.
+- [Red Neuronal en R](https://github.com/kair069/dashboardredneuronal): Proyecto de un dashboard que implementa una red neuronal utilizando el lenguaje de programación R.
+- [Proyecto de Microservicios en Java](https://github.com/kair069/FRONTYBACK): Sistema basado en microservicios utilizando Java, con interacción entre frontend y backend.
+
+
 
 ## 🌍 Contribuyendo a la Comunidad
 
