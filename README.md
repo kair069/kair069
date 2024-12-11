@@ -1,4 +1,4 @@
-# ¡Hola, soy Alex Sandro Cayllahua Chire 👋
+# ¡Hola, soy Alex Sandro Cayllahua Chire 👋 <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif" alt="Desarrollador" width="50" height="50">
 
 ![Cabecera](https://github.com/kair069/kair069/blob/main/Banner%20de%20LinkedIn%20Cabecera%20Empresa%20Tecnologia%20Corporativo%20Moderno.gif) ![Desarrollador](https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif)
 
