@@ -1,4 +1,4 @@
-# ¡Hola, soy ALEX SANDRO CAYLLAHUA CHIRE👋
+# ¡Hola, soy Alex Sandro Cayllahua Chire👋
 
 ![Cabecera](https://github.com/kair069/kair069/blob/main/Banner%20de%20LinkedIn%20Cabecera%20Empresa%20Tecnologia%20Corporativo%20Moderno.gif)
 
