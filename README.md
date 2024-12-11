@@ -2,13 +2,14 @@
 
 ![Cabecera](https://github.com/kair069/kair069/blob/main/Banner%20de%20LinkedIn%20Cabecera%20Empresa%20Tecnologia%20Corporativo%20Moderno.gif)
 
-Soy un **desarrollador de software** apasionado por la tecnología y la resolución de problemas. Actualmente estoy aprendiendo nuevas herramientas y tecnologías para mejorar mis habilidades de programación. Siempre me encanta colaborar en proyectos open-source y seguir aprendiendo.
+Soy un **matemático puro**, **estadístico**, **ingeniero de software** especializado en **inteligencia artificial**, y un apasionado **desarrollador y diseñador de software con enfoque en negocios**. Actualmente, estoy aprendiendo **Swift para Apple macOS** con el objetivo de desarrollar aplicaciones para teléfonos móviles. Busco colaborar en proyectos de **Angular**, **consumir APIs**, **conectar bases de datos MySQL**, **realizar análisis de datos** y crear **aplicaciones web MVC**. También tengo experiencia en **microservicios** y me especializo en **backend** y **frontend**.
 
 ## 🚀 Acerca de mí
-- 🌱 Actualmente aprendiendo **[tecnologías que estás aprendiendo]**.
-- 👯 Busco colaborar en proyectos de **desarrollo web y software**.
-- 📫 Contáctame en [tu correo o LinkedIn].
-- ⚡ Fun fact: ¡Me encanta experimentar con nuevas tecnologías!
+- 🌱 Actualmente aprendiendo **Swift** para **desarrollo de aplicaciones móviles** en **Apple macOS**.
+- 👯 Busco colaborar en proyectos de **Angular**, **conexión con APIs**, **bases de datos MySQL**, **análisis de datos**, y **aplicaciones web MVC**.
+- ⚡ Me especializo en **microservicios**, **backend** y **frontend**.
+- 📫 Conéctame a través de [LinkedIn](https://www.linkedin.com/in/alex-sandro-cayllahua-chire-809b01201/) o sígueme en mi [Página de Facebook](https://www.facebook.com/EstadisticasProPeru?locale=es_LA).
+
 
 ## 🧑‍💻 Lenguajes y Tecnologías más utilizados
 
