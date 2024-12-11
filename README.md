@@ -3,8 +3,14 @@
 ![Cabecera](https://github.com/kair069/kair069/blob/main/Banner%20de%20LinkedIn%20Cabecera%20Empresa%20Tecnologia%20Corporativo%20Moderno.gif) 
 
 Soy un **matemático puro**, **estadístico**, **ingeniero de software** especializado en **inteligencia artificial**, y un apasionado **desarrollador y diseñador de software con enfoque en negocios**. Actualmente, estoy aprendiendo **Swift para Apple macOS** con el objetivo de desarrollar aplicaciones para teléfonos móviles. Busco colaborar en proyectos de **Angular**, **consumir APIs**, **conectar bases de datos MySQL**, **realizar análisis de datos** y crear **aplicaciones web MVC**. También tengo experiencia en **microservicios** y me especializo en **backend** y **frontend**.
+<p align="center">
+  <img src="https://i.gifer.com/6tXM.gif" alt="Desarrollador 2" width="250" height="250">
+</p>
 
-<img src="https://i.gifer.com/6tXM.gif" alt="Desarrollador 2" width="250" height="250">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d9/1d/d8/d91dd8addb9257082b529d553afbad6e.gif" alt="Desarrollador 3" width="250" height="250">
+</p>
+
 
 ## 🚀 Acerca de mí
 - 🌱 Actualmente aprendiendo **Swift** para **desarrollo de aplicaciones móviles** en **Apple macOS**.
