@@ -4,7 +4,7 @@
 
 Soy un **matemático puro**, **estadístico**, **ingeniero de software** especializado en **inteligencia artificial**, y un apasionado **desarrollador y diseñador de software con enfoque en negocios**. Actualmente, estoy aprendiendo **Swift para Apple macOS** con el objetivo de desarrollar aplicaciones para teléfonos móviles. Busco colaborar en proyectos de **Angular**, **consumir APIs**, **conectar bases de datos MySQL**, **realizar análisis de datos** y crear **aplicaciones web MVC**. También tengo experiencia en **microservicios** y me especializo en **backend** y **frontend**.
 Proyectos como este:
-- [Página Web de Inventario Tienda Lubricentro](https://github.com/kair069/Dashboard_en_R/tree/main)
+- [DashBoards en R](https://github.com/kair069/Dashboard_en_R/tree/main)
 ![Otra Vista](https://github.com/kair069/Dashboard_en_R/blob/main/2024-12-24%2013-08-49aas.gif)
 
 
