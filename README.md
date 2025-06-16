@@ -16,15 +16,23 @@ Proyectos como este:
 ## 🎯 Proyectos Destacados
 
 
-- [Página Web Landing Page Responsive de Viajes con Login y Conexión a MySQL](https://github.com/kair069/pagina_web_viajes): Una landing page responsive para un sitio de viajes, con autenticación de usuarios y conexión a una base de datos MySQL.
-- [Página Web en C# ASP.NET Core](https://github.com/kair069/API-WEB-C-CRUD-USUARIOS-MYSQL-): Un proyecto de API en C# utilizando ASP.NET Core para manejar CRUD de usuarios con una base de datos MySQL.
-- [Página Web de Inventario Tienda Lubricentro](https://github.com/kair069/lubriERP): Sistema de inventario para una tienda de aceites y repuestos para vehículos.
-- [Página Web Blockchain que Conecta con MetaMask](https://github.com/kair069/Vite): Proyecto de página web que utiliza Blockchain y se conecta con MetaMask.
-- [Red Neuronal en R](https://github.com/kair069/dashboardredneuronal): Proyecto de un dashboard que implementa una red neuronal utilizando el lenguaje de programación R.
-- [Proyecto Java y Flutter de Tienda de Computadoras](https://github.com/kair069/Aplicacion-Movil-Tienda-de-Productos-de-Tecnologia.git): Sistema basado en microservicios utilizando Java, con interacción entre frontend y backend.
-- [Proyecto Todo de Microservicios en Java](https://github.com/kair069/TODO): Sistema basado en microservicios utilizando Java,que permite conocer mas de una arquitectura en m icroservicios,incluye tecnologias como web flux
-- [Proyecto de Microservicios en Java](https://github.com/kair069/FRONTYBACK): Sistema basado en microservicios utilizando Java,juntoa fluter dart con base de datos y Api rest
+- 🏫 [EduCore - Sistema Escolar con Django](https://github.com/kair069/EduCore-Sistema-Escolar-con-Django): Sistema escolar completo desarrollado con Django. Incluye módulos de asistencias, trabajos, evaluaciones, gestión docente, control de usuarios y seguridad. Arquitectura basada en MVC.
 
+- 🌍 [Página Web Landing Page Responsive de Viajes con Login y Conexión a MySQL](https://github.com/kair069/pagina_web_viajes): Una landing page responsive para un sitio de viajes, con autenticación de usuarios y conexión a una base de datos MySQL.
+
+- 🧩 [Página Web en C# ASP.NET Core](https://github.com/kair069/API-WEB-C-CRUD-USUARIOS-MYSQL-): Proyecto de API en C# utilizando ASP.NET Core para manejar CRUD de usuarios con una base de datos MySQL.
+
+- 🛠️ [Página Web de Inventario Tienda Lubricentro](https://github.com/kair069/lubriERP): Sistema de inventario para una tienda de aceites y repuestos para vehículos.
+
+- 🔐 [Página Web Blockchain que Conecta con MetaMask](https://github.com/kair069/Vite): Proyecto de página web que utiliza Blockchain y se conecta con MetaMask.
+
+- 📊 [Red Neuronal en R](https://github.com/kair069/dashboardredneuronal): Dashboard que implementa una red neuronal utilizando el lenguaje de programación R.
+
+- 💻 [Proyecto Java y Flutter de Tienda de Computadoras](https://github.com/kair069/Aplicacion-Movil-Tienda-de-Productos-de-Tecnologia.git): Sistema basado en microservicios utilizando Java, con interacción entre frontend y backend.
+
+- ✅ [Proyecto TODO de Microservicios en Java](https://github.com/kair069/TODO): Sistema basado en microservicios utilizando Java. Permite explorar múltiples patrones de arquitectura, incluyendo WebFlux y bases de datos reactivas.
+
+- 📱 [Proyecto de Microservicios en Java + Flutter](https://github.com/kair069/FRONTYBACK): Sistema que combina microservicios en Java con frontend en Flutter/Dart. Incluye API REST y base de datos relacional.
   
 ## 🚀 Acerca de mí
 - 🌱 Actualmente aprendiendo **Swift** para **desarrollo de aplicaciones móviles** en **Apple macOS**.
