@@ -13,8 +13,10 @@ Proyectos como este:
   <img src="https://i.pinimg.com/originals/d9/1d/d8/d91dd8addb9257082b529d553afbad6e.gif" alt="Desarrollador 3" width="350" height="250">
 </p>
 
+
 ## 🎯 Proyectos Destacados
 
+- 🧠 [Sistema Inteligente de Gestión y Análisis de Trabajo de Campo Minero](https://github.com/kair069/sistema-inteligente-gestion-trabajo-campo-minero): Plataforma web desarrollada en PHP y MySQL orientada a optimizar el registro, análisis y control de actividades operativas en la industria minera. Incluye cálculo automático de horas hombre, dashboard analítico, control por roles y captura de evidencia visual.
 
 - 🏫 [EduCore - Sistema Escolar con Django](https://github.com/kair069/EduCore-Sistema-Escolar-con-Django): Sistema escolar completo desarrollado con Django. Incluye módulos de asistencias, trabajos, evaluaciones, gestión docente, control de usuarios y seguridad. Arquitectura basada en MVC.
 
@@ -33,6 +35,8 @@ Proyectos como este:
 - ✅ [Proyecto TODO de Microservicios en Java](https://github.com/kair069/TODO): Sistema basado en microservicios utilizando Java. Permite explorar múltiples patrones de arquitectura, incluyendo WebFlux y bases de datos reactivas.
 
 - 📱 [Proyecto de Microservicios en Java + Flutter](https://github.com/kair069/FRONTYBACK): Sistema que combina microservicios en Java con frontend en Flutter/Dart. Incluye API REST y base de datos relacional.
+
+
   
 ## 🚀 Acerca de mí
 - 🌱 Actualmente aprendiendo **Swift** para **desarrollo de aplicaciones móviles** en **Apple macOS**.
