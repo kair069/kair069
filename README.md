@@ -16,6 +16,10 @@ Proyectos como este:
 
 ## 🎯 Proyectos Destacados
 
+## 🎯 Proyectos Destacados
+
+- 🌸 [Dashboard Analítica Iris - Perú](https://github.com/kair069/dashboard-analitica-iris-peru): Dashboard interactivo desarrollado en Python Dash para análisis exploratorio completo del dataset Iris. Incluye visualizaciones avanzadas, análisis de correlación, regresión lineal, estadísticas descriptivas y filtros dinámicos. Proyecto que demuestra competencias en ciencia de datos y visualización interactiva desarrollado en Arequipa, Perú.
+
 - 🧠 [Sistema Inteligente de Gestión y Análisis de Trabajo de Campo Minero](https://github.com/kair069/sistema-inteligente-gestion-trabajo-campo-minero): Plataforma web desarrollada en PHP y MySQL orientada a optimizar el registro, análisis y control de actividades operativas en la industria minera. Incluye cálculo automático de horas hombre, dashboard analítico, control por roles y captura de evidencia visual.
 
 - 🏫 [EduCore - Sistema Escolar con Django](https://github.com/kair069/EduCore-Sistema-Escolar-con-Django): Sistema escolar completo desarrollado con Django. Incluye módulos de asistencias, trabajos, evaluaciones, gestión docente, control de usuarios y seguridad. Arquitectura basada en MVC.
