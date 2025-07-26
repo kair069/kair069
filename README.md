@@ -41,6 +41,10 @@ Proyectos como este:
 
 - 📱 [Proyecto de Microservicios en Java + Flutter](https://github.com/kair069/FRONTYBACK): Sistema que combina microservicios en Java con frontend en Flutter/Dart. Incluye API REST y base de datos relacional.
 
+- 📱 [Sistema de Monitoreo para Sistemas de Sensores de Telecomunicaciones ](https://github.com/kair069/-Cattle-ML-Monitor-Sistema-de-Monitoreo-Bovino-con-Machine-Learning): Sistema de dashboard para mirar sensores en tiempo real a partir de base de datos extraida
+
+
+
   
 ## 🚀 Acerca de mí
 - 🌱 Actualmente aprendiendo **Swift** para **desarrollo de aplicaciones móviles** en **Apple macOS**.
