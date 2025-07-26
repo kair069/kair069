@@ -16,7 +16,6 @@ Proyectos como este:
 
 ## 🎯 Proyectos Destacados
 
-## 🎯 Proyectos Destacados
 
 - 🌸 [Dashboard Analítica Iris - Perú](https://github.com/kair069/dashboard-analitica-iris-peru): Dashboard interactivo desarrollado en Python Dash para análisis exploratorio completo del dataset Iris. Incluye visualizaciones avanzadas, análisis de correlación, regresión lineal, estadísticas descriptivas y filtros dinámicos. Proyecto que demuestra competencias en ciencia de datos y visualización interactiva desarrollado en Arequipa, Perú.
 
@@ -32,6 +31,8 @@ Proyectos como este:
 
 - 🔐 [Página Web Blockchain que Conecta con MetaMask](https://github.com/kair069/Vite): Proyecto de página web que utiliza Blockchain y se conecta con MetaMask.
 
+- 📊 [Dashboard Interactivo en R con Shiny](https://github.com/kair069/Dashboard_en_R/tree/main): Dashboard interactivo en Shiny desarrollado en R, que incluye un diseño atractivo con CSS personalizado y diversas funcionalidades estadísticas. El Dashboard es altamente interactivo, con elementos como sliders, gráficos 3D y visualización de KPI's para una mejor experiencia de usuario.
+
 - 📊 [Red Neuronal en R](https://github.com/kair069/dashboardredneuronal): Dashboard que implementa una red neuronal utilizando el lenguaje de programación R.
 
 - 💻 [Proyecto Java y Flutter de Tienda de Computadoras](https://github.com/kair069/Aplicacion-Movil-Tienda-de-Productos-de-Tecnologia.git): Sistema basado en microservicios utilizando Java, con interacción entre frontend y backend.
@@ -39,7 +40,6 @@ Proyectos como este:
 - ✅ [Proyecto TODO de Microservicios en Java](https://github.com/kair069/TODO): Sistema basado en microservicios utilizando Java. Permite explorar múltiples patrones de arquitectura, incluyendo WebFlux y bases de datos reactivas.
 
 - 📱 [Proyecto de Microservicios en Java + Flutter](https://github.com/kair069/FRONTYBACK): Sistema que combina microservicios en Java con frontend en Flutter/Dart. Incluye API REST y base de datos relacional.
-
 
   
 ## 🚀 Acerca de mí
