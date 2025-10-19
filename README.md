@@ -44,6 +44,8 @@ Proyectos como este:
 - 📱 [Sistema de Monitoreo para Sistemas de Sensores de Telecomunicaciones ](https://github.com/kair069/-Cattle-ML-Monitor-Sistema-de-Monitoreo-Bovino-con-Machine-Learning): Sistema de dashboard para mirar sensores en tiempo real a partir de base de datos extraida
 
  - 📱 [Sistema Minimarket Pos ](https://github.com/kair069/laravel-pos-minimarket): Sistema minimarket
+ -- 📱 [Sistema Dental ](https://github.com/kair069/laravel-filament-dental-system): Sistema dentista
+
 
 
 
